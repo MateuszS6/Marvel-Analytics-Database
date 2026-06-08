@@ -8,26 +8,32 @@ Welcome to the Marvel Database, a comprehensive MySQL database crafted for the I
 - **Institution**: City, University of London
 - **Term**: Winter 2022
 
-## Screenshots
-
-### Projects Table
-
-![projects-table](images/projects-table.PNG)
-
-This screenshot displays the 'Projects' table from the Marvel Database, showcasing a detailed view of various Marvel projects such as movies and series. The table includes critical information such as the title, release year, box office earnings, and timeline order. This view helps users quickly understand the scope and details of each project within the Marvel Cinematic Universe, illustrating the database's capability to organize and present complex data efficiently.
-
-### ER Diagram
-
-![er-diagram](images/er-diagram.jpg)
-
-This image presents the Entity-Relationship (ER) diagram of the Marvel Database, highlighting the structured relationships between different entities such as Studios, Projects, Characters, and Crew Members. The diagram provides a clear overview of how the tables are interconnected, making it easier for developers and database administrators to understand the data model and relationships underlying the database architecture. It serves as an essential visual aid for those looking to extend, modify, or query the database.
-
 ## Features
 
 - **Project Listings**: Access detailed records of Marvel movies and series, including titles, release years, and box office earnings.
 - **Character Insights**: Explore which characters appear in each project and track their status across the Marvel universe.
 - **Timeline Ordering**: View projects organized by their timeline within the Marvel Cinematic Universe, providing a chronological understanding of the storyline.
 - **Advanced Search Capabilities**: Utilize complex SQL queries to filter, sort, and retrieve specific data points across multiple tables.
+
+## Tech Stack
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white)
+![Visual Paradigm](https://img.shields.io/badge/Visual_Paradigm-CC3333?style=for-the-badge&logo=visualparadigm&logoColor=white)
+
+## Screenshots
+
+### Projects Table
+
+![projects-table](readme-images/projects-table.PNG)
+
+This screenshot displays the 'Projects' table from the Marvel Database, showcasing a detailed view of various Marvel projects such as movies and series. The table includes critical information such as the title, release year, box office earnings, and timeline order. This view helps users quickly understand the scope and details of each project within the Marvel Cinematic Universe, illustrating the database's capability to organize and present complex data efficiently.
+
+### ER Diagram
+
+![er-diagram](readme-images/er-diagram.jpg)
+
+This image presents the Entity-Relationship (ER) diagram of the Marvel Database, highlighting the structured relationships between different entities such as Studios, Projects, Characters, and Crew Members. The diagram provides a clear overview of how the tables are interconnected, making it easier for developers and database administrators to understand the data model and relationships underlying the database architecture. It serves as an essential visual aid for those looking to extend, modify, or query the database.
 
 ## Learning Outcomes
 
